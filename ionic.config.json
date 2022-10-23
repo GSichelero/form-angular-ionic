@@ -1,0 +1,7 @@
+{
+  "name": "form-m2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
